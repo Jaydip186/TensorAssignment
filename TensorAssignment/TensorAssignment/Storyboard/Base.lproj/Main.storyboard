@@ -242,7 +242,7 @@
                                                             <constraint firstAttribute="height" constant="40" id="XMS-5Y-UAH"/>
                                                         </constraints>
                                                         <fontDescription key="fontDescription" type="system" weight="medium" pointSize="17"/>
-                                                        <textInputTraits key="textInputTraits"/>
+                                                        <textInputTraits key="textInputTraits" secureTextEntry="YES"/>
                                                         <connections>
                                                             <outlet property="delegate" destination="nPV-qy-bit" id="yri-QK-T2m"/>
                                                         </connections>
@@ -265,7 +265,7 @@
                                                             <constraint firstAttribute="height" constant="40" id="ZyA-8f-uL3"/>
                                                         </constraints>
                                                         <fontDescription key="fontDescription" type="system" weight="medium" pointSize="17"/>
-                                                        <textInputTraits key="textInputTraits"/>
+                                                        <textInputTraits key="textInputTraits" secureTextEntry="YES"/>
                                                         <connections>
                                                             <outlet property="delegate" destination="nPV-qy-bit" id="Jii-JN-My7"/>
                                                         </connections>
